@@ -45,7 +45,7 @@ const Home = () => {
         isLoading={isLoadingSaleGames}
         games={onSaleGames}
         title="promoções"
-        background="gray"
+        background="grey"
         id="on-sale"
       />
       <ProductList
